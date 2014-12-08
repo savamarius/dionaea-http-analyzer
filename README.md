@@ -8,6 +8,7 @@ INSTALL
 =====================
 ```
 $ pip install termcolor
+$ git clone https://github.com/mrt-k/dionaea-http-analyzer.git
 ```
 
 Usage
